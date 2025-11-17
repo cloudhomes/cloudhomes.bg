@@ -5,6 +5,7 @@
     "home_page_url": "https://cloudhomes.bg",
     "feed_url": "https://cloudhomes.bg/feed.json",
     "user_comment": "",
+    "icon": "https://cloudhomes.bg/media/website/horizontal_on_transparent_by_logaster.png",
     "author": {
         "name": "Martin"
     },
